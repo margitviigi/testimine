@@ -1,0 +1,21 @@
+{
+  "type": "module",
+  "dependencies": {
+    "node": "^26.3.0",
+    "puppeteer": "^25.1.0"
+  },
+  "name": "puppeteer",
+  "version": "1.0.0",
+  "main": "puppeteer.js",
+  "devDependencies": {
+},
+  "scripts": {
+    "test": "node puppeteer.js"
+  },
+  
+
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
